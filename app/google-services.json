@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800310907827",
+    "project_id": "lockspot-9aab2",
+    "storage_bucket": "lockspot-9aab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800310907827:android:6844b29446a7ee7a3ef1c6",
+        "android_client_info": {
+          "package_name": "com.lockspot.pi3_es_2024_time23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfnl6-yGaWy3G2BcHMcTNQ2y7VJ5LHWEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
